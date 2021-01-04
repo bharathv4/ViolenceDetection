@@ -1,0 +1,1 @@
+for some skipfactors ,Image.fromarray in ListofFramearray dunction will give some none.type error.
