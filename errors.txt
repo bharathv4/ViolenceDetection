@@ -1,1 +1,3 @@
 for some skipfactors ,Image.fromarray in ListofFramearray dunction will give some none.type error.
+
+while printing extrscted frames , for some videos error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite' is occuring.
