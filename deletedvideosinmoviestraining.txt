@@ -1,0 +1,37 @@
+newfi95.avi
+newfi24.avi
+newfi97.avi
+
+44.mpg
+33.mpg
+55.mpg
+59.mpg
+26(1).mpg
+58.mpg
+53.mpg
+54.mpg
+57.mpg
+52.mpg
+33(1).mpg
+42(1).mpg
+63.mpg
+60.mpg
+65.mpg
+43(1).mpg
+61.mpg
+62.mpg
+41 (1).mpg
+64.mpg
+66.mpg
+
+
+
+
+58.mpg
+64.mpg gave empty csv files
+
+
+in collab for these removed videos array index error is coming where as in my jupyter it's working
+
+empty csv files should be removed or zero vector should be added in the code
+ 
