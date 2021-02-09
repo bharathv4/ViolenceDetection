@@ -35,3 +35,8 @@ in collab for these removed videos array index error is coming where as in my ju
 
 empty csv files should be removed or zero vector should be added in the code
  
+ 
+ ideas
+ background removal
+ human detection using opencv
+ measuring motion
